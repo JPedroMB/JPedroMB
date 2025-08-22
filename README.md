@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Sistemas da Informação na faculdade ESAMC.<br>Atualmente cursando o 1º semestre.<br>Busco estágios na área e oportunidades profissionais.<br>
+Sou estudante de Sistemas da Informação na faculdade ESAMC.<br>Atualmente cursando o 4º semestre.<br>Busco estágios na área e oportunidades profissionais.<br>
 
 
 ## 🌐 Socials:
