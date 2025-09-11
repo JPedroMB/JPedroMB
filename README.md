@@ -20,9 +20,6 @@
   <a href="https://www.linkedin.com/in/joaoalvesbroker/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/peeter333" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
   <a href="https://discord.com/users/614493703125336122" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
@@ -54,9 +51,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JPedroMB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=JPedroMB&theme=alduin&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/JPedroMB/JPedroMB/output/snake.svg" alt="Snake animation" />
 
 ###
