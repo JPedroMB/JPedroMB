@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNyZGpweDFxY2s3d3J0aWhuMDdsMnBwaHgwNGd1Y3Rhb29oN29scSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif"  />
+</div>
+
+###
+
 <h2 align="left">About Me</h2>
 
 ###
@@ -30,10 +36,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/peter">
-    <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6nc6bs3sjijhxh2l2aar4t79q)"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/JPedroMB/JPedroMB/output/snake.svg" alt="Snake animation" />
 
 ###
