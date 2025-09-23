@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- C# Developer<br>- Information Systems student</p>
+<p align="left">- C# Developer<br>- Information Systems student<br>- Python Developer<br>- Machine Learning<br>- N8N</p>
 
 ###
 
